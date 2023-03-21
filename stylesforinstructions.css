@@ -1,0 +1,35 @@
+/* Instructions Page */
+body {
+   background-color: #F0EEED;
+    text-align: center;
+}
+
+#instruction-title
+{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2rem;
+  margin:  5%;
+  color: #C92C6D;
+  text-align: center;
+}
+
+li
+{
+  margin-left: 100px;
+  text-align: left;
+  font-family: 'Caveat';
+  color: #18122B;
+  font-size: 2rem;
+}
+h2
+{
+  padding-top: 10px;
+  text-align: center;
+  font-family: 'Shadows Into Light';
+  color: #609EA2;
+}
+img
+{
+  width: 10%;
+
+}
